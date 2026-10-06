@@ -8,7 +8,6 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 
 export default function App() {
-  const lintErrorCheck: number = "String";
   return (
     <Box
       sx={{
